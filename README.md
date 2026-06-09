@@ -6,7 +6,16 @@
 ChatterlyAI is a full-stack AI chat system built with a **Next.js frontend** and **three independent backend services**, deployed separately due to platform constraints (Vercel + Render free tiers).
 
 # Project Screenshots
-![Homepage](https://github.com/user-attachments/assets/cb131514-0eec-4562-832b-7e54c380f48b)
+![Homepage](https://github.com/user-attachments/assets/32e8fdfb-a236-4833-877f-b283ee983d17)
+![Dashboard](https://github.com/user-attachments/assets/3d858362-0683-4815-9c48-c7215479365a)
+![Features](https://github.com/user-attachments/assets/71843d98-d95c-43a9-a6b9-9df8abf4e464)
+![AI Text](https://github.com/user-attachments/assets/953e1d9d-7fc8-43d2-a4f9-69def2aac7b5)
+![Share](https://github.com/user-attachments/assets/653783f2-5a10-482f-9cec-1c1b8b345ad7)
+![Image Generated](https://github.com/user-attachments/assets/a006609d-e60f-46bc-a056-0efea23311c9)
+![Add Friend](https://github.com/user-attachments/assets/714c4549-f570-4c85-9bfb-914eff63a01d)
+![Chat With Friends](https://github.com/user-attachments/assets/bce4bfad-2808-4739-931c-2b76c9af3cd0)
+
+<!--![Homepage](https://github.com/user-attachments/assets/cb131514-0eec-4562-832b-7e54c380f48b)
 ![Dashboard](https://github.com/user-attachments/assets/84acc733-b1a5-498f-8a85-bf642468346e)
 ![Features](https://github.com/user-attachments/assets/d97b5bb5-3ee3-4d1f-84d9-370b72b43029)
 ![AI Text](https://github.com/user-attachments/assets/ec9efbe3-b2b2-4a11-9d4d-1ed062fc7f9a)
@@ -14,7 +23,7 @@ ChatterlyAI is a full-stack AI chat system built with a **Next.js frontend** and
 ![Image Generated](https://github.com/user-attachments/assets/aeb22808-3533-4120-bf39-a9a75d288705)
 ![Chat With Friends](https://github.com/user-attachments/assets/ef71f168-df6c-4209-bbc8-9f0612dbfc10)
 ![Profile](https://github.com/user-attachments/assets/ff424b15-c4f0-4406-b267-6ee830c1b686).
-
+-->
 ## What this project does
 ChatterlyAI is a full-stack, collaborative AI chat platform that lets multiple users interact with AI in real-time.
 It integrates a Next.js frontend with three independent backend services, providing a seamless chat experience without switching apps or refreshing pages.
